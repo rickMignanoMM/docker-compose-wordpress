@@ -1,0 +1,12 @@
+Feb 22 2023 10:57:14
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":545}
+
+Feb 22 2023 10:57:14
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":548}
+
+Feb 22 2023 10:57:15
+{"Number":2,"Message":"touch(): Utime failed: Operation not permitted","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":545}
+
+Feb 22 2023 10:57:15
+{"Number":2,"Message":"chmod(): Operation not permitted","File":"\/var\/www\/html\/wp-content\/plugins\/all-in-one-wp-migration\/lib\/vendor\/servmask\/archiver\/class-ai1wm-extractor.php","Line":548}
+
